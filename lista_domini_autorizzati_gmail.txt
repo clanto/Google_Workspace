@@ -1,1 +1,12 @@
-
+edu.it
+gov.it
+clanto.it
+classroom.google.com
+noreply-classroom@google.com
+meetings-noreply@google.com
+calendar.google.com
+docs.google.com
+forms-receipts-noreply@google.com
+drive-shares-dm-noreply@google.com
+mailer-daemon@googlemail.com
+chime-notifications.bounces.google.com
